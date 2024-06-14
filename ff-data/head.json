@@ -1,0 +1,2863 @@
+[
+    {
+        "name": "Bronze Helmet",
+        "stats": {
+            "armor": 3,
+            "magicDmg": 0,
+            "meleeDmg": 0,
+            "rangedDmg": 0,
+            "hpRegen": 0,
+            "endurance": 0,
+            "sightRange": 0,
+            "walkSpeed": 0,
+            "jumpPower": 0,
+            "ammoReturn": 0,
+            "height": 0
+        },
+        "cost": {
+            "min": 140,
+            "max": 140
+        },
+        "image": "e/e4/Bronze_Helmet.png",
+        "link": "Ore-Based_Armor_Sets#Bronze"
+    },
+    {
+        "name": "Iron Helmet",
+        "stats": {
+            "armor": 4,
+            "magicDmg": 0,
+            "meleeDmg": 0,
+            "rangedDmg": 0,
+            "hpRegen": 0,
+            "endurance": 0,
+            "sightRange": 0,
+            "walkSpeed": 0,
+            "jumpPower": 0,
+            "ammoReturn": 0,
+            "height": 0
+        },
+        "cost": {
+            "min": 560,
+            "max": 560
+        },
+        "image": "f/f7/Iron_Helmet.png",
+        "link": "Ore-Based_Armor_Sets#Iron"
+    },
+    {
+        "name": "Cobalt Helmet",
+        "stats": {
+            "armor": 5,
+            "magicDmg": 0,
+            "meleeDmg": 0,
+            "rangedDmg": 0,
+            "hpRegen": 0,
+            "endurance": 0,
+            "sightRange": 0,
+            "walkSpeed": 0,
+            "jumpPower": 0,
+            "ammoReturn": 0,
+            "height": 0
+        },
+        "cost": {
+            "min": 3500,
+            "max": 3500
+        },
+        "image": "c/c3/Cobalt_Helmet.png",
+        "link": "Ore-Based_Armor_Sets#Cobalt"
+    },
+    {
+        "name": "Titanium Helmet",
+        "stats": {
+            "armor": 6,
+            "magicDmg": 0,
+            "meleeDmg": 0,
+            "rangedDmg": 0,
+            "hpRegen": 0,
+            "endurance": 0,
+            "sightRange": 0,
+            "walkSpeed": 0,
+            "jumpPower": 0,
+            "ammoReturn": 0,
+            "height": 0
+        },
+        "cost": {
+            "min": 14000,
+            "max": 14000
+        },
+        "image": "a/ad/Titanium_Helmet.png",
+        "link": "Ore-Based_Armor_Sets#Titanium"
+    },
+    {
+        "name": "Gold Helmet",
+        "stats": {
+            "armor": 8,
+            "magicDmg": 0,
+            "meleeDmg": 0,
+            "rangedDmg": 0,
+            "hpRegen": 0,
+            "endurance": 0,
+            "sightRange": 0,
+            "walkSpeed": 0,
+            "jumpPower": 0,
+            "ammoReturn": 0,
+            "height": 0
+        },
+        "cost": {
+            "min": 35000,
+            "max": 35000
+        },
+        "image": "5/59/Gold_Helmet.png",
+        "link": "Ore-Based_Armor_Sets#Gold"
+    },
+    {
+        "name": "Onyx Helmet",
+        "stats": {
+            "armor": 9,
+            "magicDmg": 0,
+            "meleeDmg": 0,
+            "rangedDmg": 0,
+            "hpRegen": 0,
+            "endurance": 0,
+            "sightRange": 0,
+            "walkSpeed": 0,
+            "jumpPower": 0,
+            "ammoReturn": 0,
+            "height": 0
+        },
+        "cost": {
+            "min": 70000,
+            "max": 70000
+        },
+        "image": "6/66/Onyx_Helmet.png",
+        "link": "Ore-Based_Armor_Sets#Onyx"
+    },
+    {
+        "name": "Blue Wizard Hat",
+        "stats": {
+            "armor": 5,
+            "magicDmg": 25,
+            "meleeDmg": 0,
+            "rangedDmg": 0,
+            "hpRegen": 0,
+            "endurance": 0,
+            "sightRange": 0,
+            "walkSpeed": 0,
+            "jumpPower": 0,
+            "ammoReturn": 0,
+            "height": 0
+        },
+        "cost": {
+            "min": 185000,
+            "max": 185000
+        },
+        "image": "f/f8/BlueWizardHat.png",
+        "link": "Blue_Wizard_Set#Hat"
+    },
+    {
+        "name": "Brash Knight Helmet",
+        "stats": {
+            "armor": 8,
+            "magicDmg": 0,
+            "meleeDmg": 10,
+            "rangedDmg": 10,
+            "hpRegen": 0,
+            "endurance": 0,
+            "sightRange": 0,
+            "walkSpeed": 0,
+            "jumpPower": 0,
+            "ammoReturn": 0,
+            "height": 0
+        },
+        "cost": {
+            "min": 70000,
+            "max": 70000
+        },
+        "image": "3/35/Brash_Knight_Helmet.png",
+        "link": "Brash_Knight_Set#Helmet"
+    },
+    {
+        "name": "Celestial Moon Hat",
+        "stats": {
+            "armor": 7,
+            "magicDmg": 30,
+            "meleeDmg": 0,
+            "rangedDmg": 30,
+            "hpRegen": 0,
+            "endurance": 0,
+            "sightRange": 0,
+            "walkSpeed": 0,
+            "jumpPower": 0,
+            "ammoReturn": 0,
+            "height": 0
+        },
+        "cost": {
+            "min": 500000,
+            "max": 500000
+        },
+        "image": "d/dc/CelestialMoonHat.png",
+        "link": "Celestial_Moon_Set#Hat"
+    },
+    {
+        "name": "Courting Knight Helmet",
+        "stats": {
+            "armor": 9,
+            "magicDmg": 0,
+            "meleeDmg": 0,
+            "rangedDmg": 0,
+            "hpRegen": 0.8,
+            "endurance": 0,
+            "sightRange": 0,
+            "walkSpeed": 0,
+            "jumpPower": 0,
+            "ammoReturn": 0,
+            "height": 0
+        },
+        "cost": {
+            "min": 160000,
+            "max": 160000
+        },
+        "image": "1/17/Courting_Knight_Helmet.png",
+        "link": "Courting_Knight_Set#Helmet"
+    },
+    {
+        "name": "Dark Hunter Hat",
+        "stats": {
+            "armor": 5,
+            "magicDmg": 0,
+            "meleeDmg": 0,
+            "rangedDmg": 25,
+            "hpRegen": 0,
+            "endurance": 0,
+            "sightRange": 0,
+            "walkSpeed": 0,
+            "jumpPower": 0,
+            "ammoReturn": 0,
+            "height": 0
+        },
+        "cost": {
+            "min": 185000,
+            "max": 185000
+        },
+        "image": "c/cb/DarkHunterHat.png",
+        "link": "Dark_Hunter_Set#Hat"
+    },
+    {
+        "name": "Darkwood Warrior Helmet",
+        "stats": {
+            "armor": 12,
+            "magicDmg": 0,
+            "meleeDmg": 30,
+            "rangedDmg": 30,
+            "hpRegen": 0,
+            "endurance": 0,
+            "sightRange": 0,
+            "walkSpeed": 0,
+            "jumpPower": 0,
+            "ammoReturn": 0,
+            "height": 0
+        },
+        "cost": {
+            "min": 600000,
+            "max": 600000
+        },
+        "image": "1/14/Darkwood_Warrior_Helmet.png",
+        "link": "Darkwood_Warrior_Set#Helmet"
+    },
+    {
+        "name": "Furnace Mummy Helmet",
+        "stats": {
+            "armor": 15,
+            "magicDmg": 0,
+            "meleeDmg": 65,
+            "rangedDmg": 0,
+            "hpRegen": 0,
+            "endurance": 0,
+            "sightRange": 0,
+            "walkSpeed": 0,
+            "jumpPower": 0,
+            "ammoReturn": 0,
+            "height": 0
+        },
+        "cost": {
+            "min": 1260000,
+            "max": 1260000
+        },
+        "image": "e/e3/FurnaceMummyHelmet.png",
+        "link": "Furnace_Mummy_Set#Helmet"
+    },
+    {
+        "name": "Galaxy Wizard Hat",
+        "stats": {
+            "armor": 10,
+            "magicDmg": 65,
+            "meleeDmg": 0,
+            "rangedDmg": 0,
+            "hpRegen": 0,
+            "endurance": 0,
+            "sightRange": 0,
+            "walkSpeed": 0,
+            "jumpPower": 0,
+            "ammoReturn": 0,
+            "height": 0
+        },
+        "cost": {
+            "min": 1260000,
+            "max": 1260000
+        },
+        "image": "6/6d/GalaxyWizardHat.png",
+        "link": "Galaxy_Wizard_Set#Hat"
+    },
+    {
+        "name": "Guardian Helmet",
+        "stats": {
+            "armor": 16,
+            "magicDmg": 55,
+            "meleeDmg": 55,
+            "rangedDmg": 55,
+            "hpRegen": 0,
+            "endurance": 0,
+            "sightRange": 0,
+            "walkSpeed": 0,
+            "jumpPower": 0,
+            "ammoReturn": 0,
+            "height": 0
+        },
+        "cost": {
+            "min": 1800000,
+            "max": 1800000
+        },
+        "image": "9/9b/GuardianHelmet.png",
+        "link": "Guardian_Set#Helmet"
+    },
+    {
+        "name": "Hardened Bronze Helmet",
+        "stats": {
+            "armor": 9,
+            "magicDmg": 0,
+            "meleeDmg": 0,
+            "rangedDmg": 0,
+            "hpRegen": 0,
+            "endurance": 0,
+            "sightRange": 0,
+            "walkSpeed": 0,
+            "jumpPower": 0,
+            "ammoReturn": 0,
+            "height": 0
+        },
+        "cost": {
+            "min": 100000,
+            "max": 100000
+        },
+        "image": "2/21/HardenedBronzeHelmet.png",
+        "link": "Hardened_Bronze_Set#Helmet"
+    },
+    {
+        "name": "Hedge Knight Helmet",
+        "stats": {
+            "armor": 8,
+            "magicDmg": 0,
+            "meleeDmg": 0,
+            "rangedDmg": 0,
+            "hpRegen": 0,
+            "endurance": 0,
+            "sightRange": 0,
+            "walkSpeed": 0,
+            "jumpPower": 0,
+            "ammoReturn": 0,
+            "height": 0
+        },
+        "cost": {
+            "min": 45000,
+            "max": 45000
+        },
+        "image": "c/c5/Hedge_Knight_Helmet.png",
+        "link": "Hedge_Knight's_Set#Helmet"
+    },
+    {
+        "name": "Illuminator's Hat",
+        "stats": {
+            "armor": 0,
+            "magicDmg": 0,
+            "meleeDmg": 0,
+            "rangedDmg": 0,
+            "hpRegen": 0,
+            "endurance": 0,
+            "sightRange": 15,
+            "walkSpeed": 0,
+            "jumpPower": 0,
+            "ammoReturn": 0,
+            "height": 0
+        },
+        "cost": {
+            "min": 75000,
+            "max": 75000
+        },
+        "image": "0/00/Illuminators_Hat.png",
+        "link": "Illuminator_Set#Hat"
+    },
+    {
+        "name": "Ivory Helmet",
+        "stats": {
+            "armor": 11,
+            "magicDmg": 0,
+            "meleeDmg": 25,
+            "rangedDmg": 0,
+            "hpRegen": 0,
+            "endurance": 0,
+            "sightRange": 0,
+            "walkSpeed": 0,
+            "jumpPower": 0,
+            "ammoReturn": 0,
+            "height": 0
+        },
+        "cost": {
+            "min": 300000,
+            "max": 300000
+        },
+        "image": "d/d4/Ivory_Helmet.png",
+        "link": "Ivory_Set#Helmet"
+    },
+    {
+        "name": "Jade Assassin's Mask",
+        "stats": {
+            "armor": 7,
+            "magicDmg": 0,
+            "meleeDmg": 8,
+            "rangedDmg": 0,
+            "hpRegen": 0,
+            "endurance": 3.5,
+            "sightRange": 0,
+            "walkSpeed": 0,
+            "jumpPower": 0,
+            "ammoReturn": 0,
+            "height": 0
+        },
+        "cost": {
+            "min": 115000,
+            "max": 115000
+        },
+        "image": "2/2f/Jade_Assassin's_Mask.png",
+        "link": "Jade_Assassin's_Set#Mask"
+    },
+    {
+        "name": "Lagoon Spirit Head",
+        "stats": {
+            "armor": 8,
+            "magicDmg": 40,
+            "meleeDmg": 0,
+            "rangedDmg": 0,
+            "hpRegen": 0,
+            "endurance": 0,
+            "sightRange": 0,
+            "walkSpeed": 0,
+            "jumpPower": 0,
+            "ammoReturn": 0,
+            "height": 0
+        },
+        "cost": {
+            "min": 590000,
+            "max": 590000
+        },
+        "image": "1/1a/LagoonSpiritHead.png",
+        "link": "Lagoon_Spirit_Set#Head"
+    },
+    {
+        "name": "Mortmud Hood",
+        "stats": {
+            "armor": 5,
+            "magicDmg": 15,
+            "meleeDmg": 0,
+            "rangedDmg": 0,
+            "hpRegen": 0,
+            "endurance": 0,
+            "sightRange": 0,
+            "walkSpeed": 0,
+            "jumpPower": 0,
+            "ammoReturn": 0,
+            "height": 0
+        },
+        "cost": {
+            "min": 65000,
+            "max": 65000
+        },
+        "image": "1/1a/Mortmud_Hood.png",
+        "link": "Mortmud_Set#Hood"
+    },
+    {
+        "name": "Patched Helmet",
+        "stats": {
+            "armor": 8,
+            "magicDmg": 0,
+            "meleeDmg": 0,
+            "rangedDmg": 0,
+            "hpRegen": 0,
+            "endurance": 0,
+            "sightRange": 0,
+            "walkSpeed": 0,
+            "jumpPower": 0,
+            "ammoReturn": 0,
+            "height": 0
+        },
+        "cost": {
+            "min": 35000,
+            "max": 35000
+        },
+        "image": "a/a9/PatchedHelmet.png",
+        "link": "Patched_Set#Helmet"
+    },
+    {
+        "name": "Razed General Hat",
+        "stats": {
+            "armor": 10,
+            "magicDmg": 0,
+            "meleeDmg": 0,
+            "rangedDmg": 65,
+            "hpRegen": 0,
+            "endurance": 0,
+            "sightRange": 0,
+            "walkSpeed": 0,
+            "jumpPower": 0,
+            "ammoReturn": 0,
+            "height": 0
+        },
+        "cost": {
+            "min": 1260000,
+            "max": 1260000
+        },
+        "image": "2/26/Razed_General_Hat.png",
+        "link": "Razed_General_Set#Hat"
+    },
+    {
+        "name": "Red Wizard Hat",
+        "stats": {
+            "armor": 5,
+            "magicDmg": 25,
+            "meleeDmg": 0,
+            "rangedDmg": 0,
+            "hpRegen": 0,
+            "endurance": 0,
+            "sightRange": 0,
+            "walkSpeed": 0,
+            "jumpPower": 0,
+            "ammoReturn": 0,
+            "height": 0
+        },
+        "cost": {
+            "min": 185000,
+            "max": 185000
+        },
+        "image": "e/e5/RedWizardHat.png",
+        "link": "Red_Wizard_Set#Hat"
+    },
+    {
+        "name": "Riveted Helmet",
+        "stats": {
+            "armor": 6,
+            "magicDmg": 0,
+            "meleeDmg": 0,
+            "rangedDmg": 0,
+            "hpRegen": 0,
+            "endurance": 0,
+            "sightRange": 0,
+            "walkSpeed": 0,
+            "jumpPower": 0,
+            "ammoReturn": 0,
+            "height": 0
+        },
+        "cost": {
+            "min": 14000,
+            "max": 14000
+        },
+        "image": "1/1f/Riveted_Helmet.png",
+        "link": "Riveted_Set#Helmet"
+    },
+    {
+        "name": "Skull",
+        "stats": {
+            "armor": 3,
+            "magicDmg": 0,
+            "meleeDmg": 0,
+            "rangedDmg": 0,
+            "hpRegen": 0,
+            "endurance": 0,
+            "sightRange": 0,
+            "walkSpeed": 0,
+            "jumpPower": 0,
+            "ammoReturn": 0,
+            "height": 0
+        },
+        "cost": {
+            "min": 200000,
+            "max": 200000
+        },
+        "image": "4/4a/Skull.png",
+        "link": "Skeleton_Set#Skull_"
+    },
+    {
+        "name": "Spikeout Helmet",
+        "stats": {
+            "armor": 6,
+            "magicDmg": 0,
+            "meleeDmg": 15,
+            "rangedDmg": 0,
+            "hpRegen": 0,
+            "endurance": 0,
+            "sightRange": 0,
+            "walkSpeed": 0,
+            "jumpPower": 0,
+            "ammoReturn": 0,
+            "height": 0
+        },
+        "cost": {
+            "min": 70000,
+            "max": 70000
+        },
+        "image": "2/2e/SpikeoutHelmet.png",
+        "link": "Spikeout_Set#Helmet"
+    },
+    {
+        "name": "Springtwig Eye",
+        "stats": {
+            "armor": 0,
+            "magicDmg": 0,
+            "meleeDmg": 0,
+            "rangedDmg": 0,
+            "hpRegen": 0,
+            "endurance": 0,
+            "sightRange": 0,
+            "walkSpeed": 1,
+            "jumpPower": 11,
+            "ammoReturn": 0,
+            "height": 0
+        },
+        "cost": {
+            "min": 1000000,
+            "max": 1000000
+        },
+        "image": "8/89/Springtwig_Eye.png",
+        "link": "Springtwig_Set#Eye"
+    },
+    {
+        "name": "Tomb Prowler Hat",
+        "stats": {
+            "armor": 12,
+            "magicDmg": 0,
+            "meleeDmg": 0,
+            "rangedDmg": 40,
+            "hpRegen": 0,
+            "endurance": 0,
+            "sightRange": 0,
+            "walkSpeed": 0,
+            "jumpPower": 0,
+            "ammoReturn": 0,
+            "height": 0
+        },
+        "cost": {
+            "min": 590000,
+            "max": 590000
+        },
+        "image": "7/71/TombProwlerHat.png",
+        "link": "Tomb_Prowler_Set#Hat"
+    },
+    {
+        "name": "Void Monster Mask",
+        "stats": {
+            "armor": 12,
+            "magicDmg": 30,
+            "meleeDmg": 30,
+            "rangedDmg": 0,
+            "hpRegen": 0,
+            "endurance": 0,
+            "sightRange": 0,
+            "walkSpeed": 0,
+            "jumpPower": 0,
+            "ammoReturn": 0,
+            "height": 0
+        },
+        "cost": {
+            "min": 600000,
+            "max": 600000
+        },
+        "image": "6/6e/VoidMonsterMask.png",
+        "link": "Void_Monster_Set#Mask"
+    },
+    {
+        "name": "Woodland Ranger Hat",
+        "stats": {
+            "armor": 5,
+            "magicDmg": 0,
+            "meleeDmg": 0,
+            "rangedDmg": 15,
+            "hpRegen": 0,
+            "endurance": 0,
+            "sightRange": 0,
+            "walkSpeed": 0,
+            "jumpPower": 0,
+            "ammoReturn": 0,
+            "height": 0
+        },
+        "cost": {
+            "min": 90000,
+            "max": 90000
+        },
+        "image": "c/c9/Woodland_Ranger_Hat.png",
+        "link": "Woodland_Ranger_Set#Hat"
+    },
+    {
+        "name": "Zhuulaczar Crown",
+        "stats": {
+            "armor": 10,
+            "magicDmg": 0,
+            "meleeDmg": 0,
+            "rangedDmg": 0,
+            "hpRegen": 0,
+            "endurance": 0,
+            "sightRange": 0,
+            "walkSpeed": 0,
+            "jumpPower": 0,
+            "ammoReturn": 0,
+            "height": 0
+        },
+        "cost": {
+            "min": 500000,
+            "max": 500000
+        },
+        "image": "0/0c/Zhuu.png",
+        "link": "Zhuulaczar_Set#Crown"
+    },
+    {
+        "name": "Chasm Magus Hat",
+        "stats": {
+            "armor": 11,
+            "magicDmg": 60,
+            "meleeDmg": 0,
+            "rangedDmg": 0,
+            "hpRegen": 0,
+            "endurance": 0,
+            "sightRange": 15,
+            "walkSpeed": 0,
+            "jumpPower": 0,
+            "ammoReturn": 0,
+            "height": 0
+        },
+        "cost": {
+            "min": 1500000,
+            "max": 1500000
+        },
+        "image": "a/a8/Chasm_Magus_Hat_Large.png",
+        "link": "Chasm_Magus_Set#Hat"
+    },
+    {
+        "name": "Crabsuit Headgear",
+        "stats": {
+            "armor": 10,
+            "magicDmg": 0,
+            "meleeDmg": 0,
+            "rangedDmg": 0,
+            "hpRegen": 0,
+            "endurance": 5,
+            "sightRange": 0,
+            "walkSpeed": 1,
+            "jumpPower": 8,
+            "ammoReturn": 0,
+            "height": 0
+        },
+        "cost": {
+            "min": 800000,
+            "max": 800000
+        },
+        "image": "2/2c/Crabsuit_Headgear_Large.png",
+        "link": "Crabsuit_Set#Headgear"
+    },
+    {
+        "name": "Gardendweller's Hat",
+        "stats": {
+            "armor": 5,
+            "magicDmg": 55,
+            "meleeDmg": 55,
+            "rangedDmg": 55,
+            "hpRegen": 0,
+            "endurance": 0,
+            "sightRange": 0,
+            "walkSpeed": 0,
+            "jumpPower": 0,
+            "ammoReturn": 0,
+            "height": 0
+        },
+        "cost": {
+            "min": 320000,
+            "max": 320000
+        },
+        "image": "5/5f/Gardendweller_Hat_Large.png",
+        "link": "Gardendweller_Set#Hat"
+    },
+    {
+        "name": "Gauntlet Fury Helmet",
+        "stats": {
+            "armor": 12,
+            "magicDmg": 0,
+            "meleeDmg": 0,
+            "rangedDmg": 55,
+            "hpRegen": 0,
+            "endurance": 3.5,
+            "sightRange": 0,
+            "walkSpeed": 0,
+            "jumpPower": 0,
+            "ammoReturn": 0,
+            "height": 0
+        },
+        "cost": {
+            "min": 1350000,
+            "max": 1500000
+        },
+        "image": "b/bb/Gauntlet_Fury_Helmet_Large.png",
+        "link": "Gauntlet_Fury_Set#Helmet"
+    },
+    {
+        "name": "Guild Knight Helmet",
+        "stats": {
+            "armor": 15,
+            "magicDmg": 0,
+            "meleeDmg": 70,
+            "rangedDmg": 0,
+            "hpRegen": 3.2,
+            "endurance": 3.5,
+            "sightRange": 0,
+            "walkSpeed": 0,
+            "jumpPower": 0,
+            "ammoReturn": 0,
+            "height": 0
+        },
+        "cost": {
+            "min": 4000000,
+            "max": 4200000
+        },
+        "image": "8/83/Guild_Knight_Helmet_Large.png",
+        "link": "Guild_Knight_Set#Helmet"
+    },
+    {
+        "name": "Knight's Army Core",
+        "stats": {
+            "armor": 10,
+            "magicDmg": 0,
+            "meleeDmg": 35,
+            "rangedDmg": 60,
+            "hpRegen": 3.2,
+            "endurance": 0,
+            "sightRange": 0,
+            "walkSpeed": 0,
+            "jumpPower": 0,
+            "ammoReturn": 0,
+            "height": 0
+        },
+        "cost": {
+            "min": 1800000,
+            "max": 2000000
+        },
+        "image": "0/0f/Knight's_Army_Core_Large.png",
+        "link": "Knight's_Army_Set#Core"
+    },
+    {
+        "name": "Odewig Helmet",
+        "stats": {
+            "armor": 16,
+            "magicDmg": 50,
+            "meleeDmg": 50,
+            "rangedDmg": 50,
+            "hpRegen": 0,
+            "endurance": 3.5,
+            "sightRange": 0,
+            "walkSpeed": -1,
+            "jumpPower": 0,
+            "ammoReturn": 0,
+            "height": 0
+        },
+        "cost": {
+            "min": 2000000,
+            "max": 2000000
+        },
+        "image": "b/be/Odewig's_Helmet_Large.png",
+        "link": "Odewig_Set#Helmet"
+    },
+    {
+        "name": "Pettyganger's Parade Mask",
+        "stats": {
+            "armor": 5,
+            "magicDmg": 0,
+            "meleeDmg": 0,
+            "rangedDmg": 0,
+            "hpRegen": 0,
+            "endurance": 0,
+            "sightRange": 0,
+            "walkSpeed": 2,
+            "jumpPower": 5,
+            "ammoReturn": 0,
+            "height": 0
+        },
+        "cost": {
+            "min": 4200000,
+            "max": 5000000
+        },
+        "image": "6/63/Pettyganger's_Parade_Mask_Large.png",
+        "link": "Pettyganger's_Parade_Set#Mask"
+    },
+    {
+        "name": "Poison Construct Helmet",
+        "stats": {
+            "armor": 6,
+            "magicDmg": 70,
+            "meleeDmg": 0,
+            "rangedDmg": 0,
+            "hpRegen": 0,
+            "endurance": 7,
+            "sightRange": 0,
+            "walkSpeed": 0,
+            "jumpPower": 0,
+            "ammoReturn": 0,
+            "height": 0
+        },
+        "cost": {
+            "min": 1800000,
+            "max": 1800000
+        },
+        "image": "5/52/Poison_Construct_Helmet_Large.png",
+        "link": "Poison_Construct_Set#Helmet"
+    },
+    {
+        "name": "Rotted King's Mask",
+        "stats": {
+            "armor": 15,
+            "magicDmg": 0,
+            "meleeDmg": 65,
+            "rangedDmg": 0,
+            "hpRegen": 3.2,
+            "endurance": 0,
+            "sightRange": 0,
+            "walkSpeed": 0,
+            "jumpPower": 0,
+            "ammoReturn": 0,
+            "height": 0
+        },
+        "cost": {
+            "min": 3200000,
+            "max": 3500000
+        },
+        "image": "c/c9/Rotted_King's_Mask_Large.png",
+        "link": "Rotted_King's_Set#Mask"
+    },
+    {
+        "name": "Spellbound Mage Hood",
+        "stats": {
+            "armor": 8,
+            "magicDmg": 60,
+            "meleeDmg": 0,
+            "rangedDmg": 0,
+            "hpRegen": 0,
+            "endurance": 0,
+            "sightRange": 0,
+            "walkSpeed": 1,
+            "jumpPower": 0,
+            "ammoReturn": 0,
+            "height": 0
+        },
+        "cost": {
+            "min": 1400000,
+            "max": 1400000
+        },
+        "image": "d/db/Spellbound_Mage_Hood_Large.png",
+        "link": "Spellbound_Mage_Set#Hood"
+    },
+    {
+        "name": "Earth King Regalia",
+        "stats": {
+            "armor": 14,
+            "magicDmg": 80,
+            "meleeDmg": 0,
+            "rangedDmg": 0,
+            "hpRegen": 0,
+            "endurance": 0,
+            "sightRange": 0,
+            "walkSpeed": 0,
+            "jumpPower": 0,
+            "ammoReturn": 0,
+            "height": 0
+        },
+        "cost": {
+            "min": 4800000,
+            "max": 5000000
+        },
+        "image": "f/fe/The_Earth_King_Regalia_Large.png",
+        "link": "The_Earth_King_Regalia_Set#Crown"
+    },
+    {
+        "name": "The Mask of Forgotten Things",
+        "stats": {
+            "armor": 15,
+            "magicDmg": 65,
+            "meleeDmg": 65,
+            "rangedDmg": 65,
+            "hpRegen": 0,
+            "endurance": 0,
+            "sightRange": 0,
+            "walkSpeed": 0,
+            "jumpPower": 0,
+            "ammoReturn": 0,
+            "height": 0
+        },
+        "cost": {
+            "min": 4500000,
+            "max": 5000000
+        },
+        "image": "1/18/The_Mask_of_Forgotten_Things_Large.png",
+        "link": "The_Forgotten_Things_Set#Mask"
+    },
+    {
+        "name": "The Vengeful Visage",
+        "stats": {
+            "armor": 15,
+            "magicDmg": 25,
+            "meleeDmg": 25,
+            "rangedDmg": 25,
+            "hpRegen": 0,
+            "endurance": 9,
+            "sightRange": 0,
+            "walkSpeed": 0,
+            "jumpPower": 0,
+            "ammoReturn": 0,
+            "height": 0
+        },
+        "cost": {
+            "min": 2000000,
+            "max": 2000000
+        },
+        "image": "0/04/The_Vengeful_Visage_Large.png",
+        "link": "The_Vengeful_Visage_Set#Visage"
+    },
+    {
+        "name": "Void Lord Helmet",
+        "stats": {
+            "armor": 16,
+            "magicDmg": 0,
+            "meleeDmg": 80,
+            "rangedDmg": 0,
+            "hpRegen": 0,
+            "endurance": 0,
+            "sightRange": 0,
+            "walkSpeed": 0,
+            "jumpPower": 0,
+            "ammoReturn": 0,
+            "height": 0
+        },
+        "cost": {
+            "min": 4800000,
+            "max": 5000000
+        },
+        "image": "6/6d/Void_Lord_Helmet_Large.png",
+        "link": "Void_Lord_Set#Helmet"
+    },
+    {
+        "name": "Wolfram Leader Helmet",
+        "stats": {
+            "armor": 10,
+            "magicDmg": 0,
+            "meleeDmg": 70,
+            "rangedDmg": 0,
+            "hpRegen": 0,
+            "endurance": 7,
+            "sightRange": 0,
+            "walkSpeed": 0,
+            "jumpPower": 0,
+            "ammoReturn": 0,
+            "height": 0
+        },
+        "cost": {
+            "min": 1800000,
+            "max": 1800000
+        },
+        "image": "d/de/Wolfram_Leader_Helmet_Large.png",
+        "link": "Wolfram_Leader_Set#Helmet"
+    },
+    {
+        "name": "World Sculptor's Helmet",
+        "stats": {
+            "armor": 14,
+            "magicDmg": 0,
+            "meleeDmg": 0,
+            "rangedDmg": 80,
+            "hpRegen": 0,
+            "endurance": 0,
+            "sightRange": 0,
+            "walkSpeed": 0,
+            "jumpPower": 0,
+            "ammoReturn": 0,
+            "height": 0
+        },
+        "cost": {
+            "min": 4800000,
+            "max": 5000000
+        },
+        "image": "7/71/World_Sculptor_Helmet_Large.png",
+        "link": "World_Sculptor_Set#Helmet"
+    },
+    {
+        "name": "Aquatic Explorer Helmet",
+        "stats": {
+            "armor": 14,
+            "magicDmg": 0,
+            "meleeDmg": 75,
+            "rangedDmg": 65,
+            "hpRegen": 0,
+            "endurance": 0,
+            "sightRange": 0,
+            "walkSpeed": 0,
+            "jumpPower": 0,
+            "ammoReturn": 0,
+            "height": 0
+        },
+        "cost": {
+            "min": 3800000,
+            "max": 3800000
+        },
+        "image": "7/77/Aquatic_Explorer_Helmet_Large.png",
+        "link": "Aquatic_Explorer_Set#Helmet"
+    },
+    {
+        "name": "Helm of the Skater",
+        "stats": {
+            "armor": 16,
+            "magicDmg": 65,
+            "meleeDmg": 65,
+            "rangedDmg": 65,
+            "hpRegen": 0,
+            "endurance": 11,
+            "sightRange": 0,
+            "walkSpeed": 0,
+            "jumpPower": 0,
+            "ammoReturn": 0,
+            "height": 0
+        },
+        "cost": {
+            "min": 6800000,
+            "max": 7500000
+        },
+        "image": "e/e4/Helm_of_the_Skater_Large.png",
+        "link": "Forgotten_Life_Set#Skater_Helm"
+    },
+    {
+        "name": "New Voice Helmet",
+        "stats": {
+            "armor": 14,
+            "magicDmg": 70,
+            "meleeDmg": 0,
+            "rangedDmg": 0,
+            "hpRegen": 3.2,
+            "endurance": 3.5,
+            "sightRange": 0,
+            "walkSpeed": 0,
+            "jumpPower": 0,
+            "ammoReturn": 0,
+            "height": 0
+        },
+        "cost": {
+            "min": 4400000,
+            "max": 4400000
+        },
+        "image": "d/d3/New_Voice_Helmet_Large.png",
+        "link": "New_Voice_Set#Helmet"
+    },
+    {
+        "name": "Romo Helmet",
+        "stats": {
+            "armor": 16,
+            "magicDmg": 0,
+            "meleeDmg": 0,
+            "rangedDmg": 0,
+            "hpRegen": 12,
+            "endurance": 0,
+            "sightRange": 0,
+            "walkSpeed": 0,
+            "jumpPower": 0,
+            "ammoReturn": 0,
+            "height": 0
+        },
+        "cost": {
+            "min": 8800000,
+            "max": 8800000
+        },
+        "image": "9/9c/Romo_Helmet_Large.png",
+        "link": "Romo_Set#Helmet"
+    },
+    {
+        "name": "Wisecrack Skull",
+        "stats": {
+            "armor": 12,
+            "magicDmg": 60,
+            "meleeDmg": 65,
+            "rangedDmg": 0,
+            "hpRegen": 0,
+            "endurance": 0,
+            "sightRange": 0,
+            "walkSpeed": 1,
+            "jumpPower": 0,
+            "ammoReturn": 0,
+            "height": 0
+        },
+        "cost": {
+            "min": 4500000,
+            "max": 4500000
+        },
+        "image": "7/7f/Wisecrack_Skull_Large.png",
+        "link": "Wisecrack_Set#Skull"
+    },
+    {
+        "name": "Woodwhack Legionnaire Helmet",
+        "stats": {
+            "armor": 11,
+            "magicDmg": 0,
+            "meleeDmg": 0,
+            "rangedDmg": 55,
+            "hpRegen": 0,
+            "endurance": 0,
+            "sightRange": 15,
+            "walkSpeed": 0,
+            "jumpPower": 12,
+            "ammoReturn": 0,
+            "height": 0
+        },
+        "cost": {
+            "min": 1800000,
+            "max": 1800000
+        },
+        "image": "2/2b/Woodwhack_Legionnaire_Headpiece_Large.png",
+        "link": "Woodwhack_Legionnaire_Set#Helmet"
+    },
+    {
+        "name": "Bedrock Helmet",
+        "stats": {
+            "armor": 16,
+            "magicDmg": 0,
+            "meleeDmg": 90,
+            "rangedDmg": 0,
+            "hpRegen": 0,
+            "endurance": 0,
+            "sightRange": 0,
+            "walkSpeed": -1,
+            "jumpPower": 0,
+            "ammoReturn": 0,
+            "height": 0
+        },
+        "cost": {
+            "min": 5200000,
+            "max": 5500000
+        },
+        "image": "c/c1/BedrockHelmet.png",
+        "link": "Bedrock_Set#Helmet"
+    },
+    {
+        "name": "Corrupted Gold Helmet",
+        "stats": {
+            "armor": 13,
+            "magicDmg": 0,
+            "meleeDmg": 75,
+            "rangedDmg": 0,
+            "hpRegen": 0,
+            "endurance": 0,
+            "sightRange": 0,
+            "walkSpeed": 0,
+            "jumpPower": 0,
+            "ammoReturn": 0,
+            "height": 0
+        },
+        "cost": {
+            "min": 7000000,
+            "max": 7000000
+        },
+        "image": "c/c7/CorruptGoldHelmet.png",
+        "link": "Corrupted_Gold_Set#Helmet"
+    },
+    {
+        "name": "Corrupted Onyx Helmet",
+        "stats": {
+            "armor": 16,
+            "magicDmg": 0,
+            "meleeDmg": 65,
+            "rangedDmg": 0,
+            "hpRegen": 0,
+            "endurance": 0,
+            "sightRange": 0,
+            "walkSpeed": 0,
+            "jumpPower": 0,
+            "ammoReturn": 0,
+            "height": 0
+        },
+        "cost": {
+            "min": 2500000,
+            "max": 7000000
+        },
+        "image": "5/5a/CorruptOnyxHelmet.png",
+        "link": "Corrupted_Onyx_Set#Helmet"
+    },
+    {
+        "name": "Falling Light Mask",
+        "stats": {
+            "armor": 15,
+            "magicDmg": 65,
+            "meleeDmg": 65,
+            "rangedDmg": 65,
+            "hpRegen": 0,
+            "endurance": 0,
+            "sightRange": 0,
+            "walkSpeed": 1,
+            "jumpPower": 0,
+            "ammoReturn": 0,
+            "height": 0
+        },
+        "cost": {
+            "min": null,
+            "max": null
+        },
+        "image": "e/e7/FallingLightMask.png",
+        "link": "Falling_Light_Set#Mask"
+    },
+    {
+        "name": "Fire Hood",
+        "stats": {
+            "armor": 9,
+            "magicDmg": 65,
+            "meleeDmg": 0,
+            "rangedDmg": 0,
+            "hpRegen": 0,
+            "endurance": 0,
+            "sightRange": 0,
+            "walkSpeed": 2,
+            "jumpPower": 0,
+            "ammoReturn": 0,
+            "height": 0
+        },
+        "cost": {
+            "min": 4000000,
+            "max": 4000000
+        },
+        "image": "4/40/FireHood.png",
+        "link": "Fire_Spellbound_Mage_Set#Hood"
+    },
+    {
+        "name": "Guttermouth Helmet",
+        "stats": {
+            "armor": 14,
+            "magicDmg": 60,
+            "meleeDmg": 60,
+            "rangedDmg": 0,
+            "hpRegen": 0,
+            "endurance": 5,
+            "sightRange": 0,
+            "walkSpeed": 0,
+            "jumpPower": 0,
+            "ammoReturn": 0,
+            "height": 0
+        },
+        "cost": {
+            "min": 7500000,
+            "max": 7500000
+        },
+        "image": "6/69/GuttermouthHelmet.png",
+        "link": "Guttermouth_Set#Helmet"
+    },
+    {
+        "name": "Ice Hood",
+        "stats": {
+            "armor": 9,
+            "magicDmg": 75,
+            "meleeDmg": 0,
+            "rangedDmg": 0,
+            "hpRegen": 0,
+            "endurance": 3,
+            "sightRange": 0,
+            "walkSpeed": 0,
+            "jumpPower": 0,
+            "ammoReturn": 0,
+            "height": 0
+        },
+        "cost": {
+            "min": 4000000,
+            "max": 4000000
+        },
+        "image": "6/66/IceHood.png",
+        "link": "Ice_Spellbound_Mage_Set#Hood"
+    },
+    {
+        "name": "Nightmare Prowler Hat",
+        "stats": {
+            "armor": 13,
+            "magicDmg": 0,
+            "meleeDmg": 0,
+            "rangedDmg": 75,
+            "hpRegen": 0,
+            "endurance": 0,
+            "sightRange": 0,
+            "walkSpeed": 0,
+            "jumpPower": 0,
+            "ammoReturn": 5,
+            "height": 0
+        },
+        "cost": {
+            "min": 5800000,
+            "max": 6000000
+        },
+        "image": "3/39/NightmareProwlerHat.png",
+        "link": "Nightmare_Prowler_Set#Hat"
+    },
+    {
+        "name": "Pantry Leech Head",
+        "stats": {
+            "armor": 15,
+            "magicDmg": 55,
+            "meleeDmg": 55,
+            "rangedDmg": 55,
+            "hpRegen": 5,
+            "endurance": 0,
+            "sightRange": 0,
+            "walkSpeed": 0,
+            "jumpPower": 0,
+            "ammoReturn": 0,
+            "height": 0
+        },
+        "cost": {
+            "min": 10000000,
+            "max": 10000000
+        },
+        "image": "d/d1/PLH.png",
+        "link": "Pantry_Leech_Set#Head"
+    },
+    {
+        "name": "Rising Dark Mask",
+        "stats": {
+            "armor": 15,
+            "magicDmg": 70,
+            "meleeDmg": 70,
+            "rangedDmg": 0,
+            "hpRegen": 0,
+            "endurance": 0,
+            "sightRange": 0,
+            "walkSpeed": 0,
+            "jumpPower": 0,
+            "ammoReturn": 0,
+            "height": 0
+        },
+        "cost": {
+            "min": 10000000,
+            "max": 10000000
+        },
+        "image": "e/eb/RisingDarkMask.png",
+        "link": "Rising_Dark_Set#Mask"
+    },
+    {
+        "name": "Roadblocks Head",
+        "stats": {
+            "armor": 3,
+            "magicDmg": 3,
+            "meleeDmg": 3,
+            "rangedDmg": 3,
+            "hpRegen": 3,
+            "endurance": 3,
+            "sightRange": 3,
+            "walkSpeed": 3,
+            "jumpPower": 3,
+            "ammoReturn": 3,
+            "height": 0
+        },
+        "cost": {
+            "min": 20000000,
+            "max": 20000000
+        },
+        "image": "7/76/RoadblocksHead.png",
+        "link": "Roadblocks_Set#Head"
+    },
+    {
+        "name": "U-Life Helmet",
+        "stats": {
+            "armor": 12,
+            "magicDmg": 0,
+            "meleeDmg": 0,
+            "rangedDmg": 60,
+            "hpRegen": 3.2,
+            "endurance": 0,
+            "sightRange": 0,
+            "walkSpeed": 1,
+            "jumpPower": 0,
+            "ammoReturn": 0,
+            "height": 0
+        },
+        "cost": {
+            "min": 5000000,
+            "max": 5000000
+        },
+        "image": "f/fa/U-LifeHelmet.png",
+        "link": "U-Life_Set#Helmet"
+    },
+    {
+        "name": "Wired Fury Helmet",
+        "stats": {
+            "armor": 11,
+            "magicDmg": 0,
+            "meleeDmg": 90,
+            "rangedDmg": 0,
+            "hpRegen": 0,
+            "endurance": 0,
+            "sightRange": 0,
+            "walkSpeed": 0,
+            "jumpPower": 0,
+            "ammoReturn": 0,
+            "height": 0
+        },
+        "cost": {
+            "min": 5500000,
+            "max": 5500000
+        },
+        "image": "3/3a/WiredFuryHelmet.png",
+        "link": "Wired_Fury_Set#Helmet"
+    },
+    {
+        "name": "Green Spectral Vanguard Helmet",
+        "stats": {
+            "armor": 8,
+            "magicDmg": 75,
+            "meleeDmg": 0,
+            "rangedDmg": 75,
+            "hpRegen": 0,
+            "endurance": 0,
+            "sightRange": 0,
+            "walkSpeed": 0,
+            "jumpPower": 0,
+            "ammoReturn": 0,
+            "height": 0
+        },
+        "cost": {
+            "min": 2500000,
+            "max": 2500000
+        },
+        "image": "1/14/GreenSVHelmet.png",
+        "link": "Spectral_Vanguard_Armor_Sets#Green"
+    },
+    {
+        "name": "Blue Spectral Vanguard Helmet",
+        "stats": {
+            "armor": 8,
+            "magicDmg": 0,
+            "meleeDmg": 75,
+            "rangedDmg": 75,
+            "hpRegen": 0,
+            "endurance": 0,
+            "sightRange": 0,
+            "walkSpeed": 0,
+            "jumpPower": 0,
+            "ammoReturn": 0,
+            "height": 0
+        },
+        "cost": {
+            "min": 2500000,
+            "max": 2500000
+        },
+        "image": "c/c0/BlueSVHelm.png",
+        "link": "Spectral_Vanguard_Armor_Sets#Blue"
+    },
+    {
+        "name": "Purple Spectral Vanguard Helmet",
+        "stats": {
+            "armor": 8,
+            "magicDmg": 75,
+            "meleeDmg": 75,
+            "rangedDmg": 0,
+            "hpRegen": 0,
+            "endurance": 0,
+            "sightRange": 0,
+            "walkSpeed": 0,
+            "jumpPower": 0,
+            "ammoReturn": 0,
+            "height": 0
+        },
+        "cost": {
+            "min": 2600000,
+            "max": 2600000
+        },
+        "image": "7/7e/PurpleSVHelmet.png",
+        "link": "Spectral_Vanguard_Armor_Sets#Purple"
+    },
+    {
+        "name": "Black Spectral Vanguard Helmet",
+        "stats": {
+            "armor": 11,
+            "magicDmg": 80,
+            "meleeDmg": 80,
+            "rangedDmg": 80,
+            "hpRegen": 0,
+            "endurance": 0,
+            "sightRange": 0,
+            "walkSpeed": 0,
+            "jumpPower": 0,
+            "ammoReturn": 0,
+            "height": 0
+        },
+        "cost": {
+            "min": 6500000,
+            "max": 6500000
+        },
+        "image": "0/0c/BlackSVHelmet.png",
+        "link": "Spectral_Vanguard_Armor_Sets#Black"
+    },
+    {
+        "name": "White Spectral Vanguard Helmet",
+        "stats": {
+            "armor": 11,
+            "magicDmg": 80,
+            "meleeDmg": 80,
+            "rangedDmg": 80,
+            "hpRegen": 0,
+            "endurance": 0,
+            "sightRange": 0,
+            "walkSpeed": 0,
+            "jumpPower": 0,
+            "ammoReturn": 0,
+            "height": 0
+        },
+        "cost": {
+            "min": 6500000,
+            "max": 6500000
+        },
+        "image": "3/33/WhiteSVHelmet.png",
+        "link": "Spectral_Vanguard_Armor_Sets#White"
+    },
+    {
+        "name": "True Spectral Vanguard Helmet",
+        "stats": {
+            "armor": 12,
+            "magicDmg": 100,
+            "meleeDmg": 100,
+            "rangedDmg": 100,
+            "hpRegen": 0,
+            "endurance": 0,
+            "sightRange": 0,
+            "walkSpeed": 0,
+            "jumpPower": 0,
+            "ammoReturn": 0,
+            "height": 0
+        },
+        "cost": {
+            "min": 10000000,
+            "max": 10000000
+        },
+        "image": "f/f0/TrueSVhelmet.png",
+        "link": "Spectral_Vanguard_Armor_Sets#True"
+    },
+    {
+        "name": "Fire Guild Knight Helmet",
+        "stats": {
+            "armor": 15,
+            "magicDmg": 0,
+            "meleeDmg": 70,
+            "rangedDmg": 0,
+            "hpRegen": 1.6,
+            "endurance": 5,
+            "sightRange": 0,
+            "walkSpeed": 0,
+            "jumpPower": 0,
+            "ammoReturn": 0,
+            "height": 0
+        },
+        "cost": {
+            "min": 4800000,
+            "max": 4800000
+        },
+        "image": "c/c8/Fire_Guild_Knight_Helmet.png",
+        "link": "Fire_Guild_Knight_Set#Helmet"
+    },
+    {
+        "name": "Water Guild Knight Helmet",
+        "stats": {
+            "armor": 15,
+            "magicDmg": 0,
+            "meleeDmg": 70,
+            "rangedDmg": 0,
+            "hpRegen": 4.8,
+            "endurance": 1.5,
+            "sightRange": 0,
+            "walkSpeed": 0,
+            "jumpPower": 0,
+            "ammoReturn": 0,
+            "height": 0
+        },
+        "cost": {
+            "min": 4800000,
+            "max": 4800000
+        },
+        "image": "a/a1/Water_Guild_Knight_Helmet.png",
+        "link": "Water_Guild_Knight_Set#Helmet"
+    },
+    {
+        "name": "Temple Fool Head",
+        "stats": {
+            "armor": 13,
+            "magicDmg": 70,
+            "meleeDmg": 70,
+            "rangedDmg": 0,
+            "hpRegen": 0,
+            "endurance": 0,
+            "sightRange": 0,
+            "walkSpeed": 1,
+            "jumpPower": 0,
+            "ammoReturn": 0,
+            "height": 0
+        },
+        "cost": {
+            "min": 5200000,
+            "max": 5200000
+        },
+        "image": "a/a0/Temple_Fool_Head.png",
+        "link": "Temple_Fool_Set#Head"
+    },
+    {
+        "name": "Machine Rug Helmet",
+        "stats": {
+            "armor": 16,
+            "magicDmg": 70,
+            "meleeDmg": 80,
+            "rangedDmg": 90,
+            "hpRegen": 0,
+            "endurance": 5,
+            "sightRange": 0,
+            "walkSpeed": 0,
+            "jumpPower": 0,
+            "ammoReturn": 0,
+            "height": 0
+        },
+        "cost": {
+            "min": 10000000,
+            "max": 10000000
+        },
+        "image": "5/55/Machine_Rug_Helmet.png",
+        "link": "Machine_Rug_Set#Helmet"
+    },
+    {
+        "name": "Mr. Techy Techy Head Protector",
+        "stats": {
+            "armor": 16,
+            "magicDmg": 0,
+            "meleeDmg": 75,
+            "rangedDmg": 75,
+            "hpRegen": 0,
+            "endurance": 3.5,
+            "sightRange": 0,
+            "walkSpeed": 0,
+            "jumpPower": 0,
+            "ammoReturn": 20,
+            "height": 0
+        },
+        "cost": {
+            "min": 25000000,
+            "max": 25000000
+        },
+        "image": "2/23/Drillbit_Head.png",
+        "link": "Drillbit_Set#Head"
+    },
+    {
+        "name": "Royal Bronze Helmet",
+        "stats": {
+            "armor": 3,
+            "magicDmg": 0,
+            "meleeDmg": 0,
+            "rangedDmg": 0,
+            "hpRegen": 0,
+            "endurance": 0,
+            "sightRange": 0,
+            "walkSpeed": 0,
+            "jumpPower": 0,
+            "ammoReturn": 0,
+            "height": 0
+        },
+        "cost": {
+            "min": null,
+            "max": null
+        },
+        "image": "1/10/RoyalBronzeHelmet.png",
+        "link": "Royal_Bronze_Helmet"
+    },
+    {
+        "name": "Royal Iron Helmet",
+        "stats": {
+            "armor": 4,
+            "magicDmg": 0,
+            "meleeDmg": 0,
+            "rangedDmg": 0,
+            "hpRegen": 0,
+            "endurance": 0,
+            "sightRange": 0,
+            "walkSpeed": 0,
+            "jumpPower": 0,
+            "ammoReturn": 0,
+            "height": 0
+        },
+        "cost": {
+            "min": null,
+            "max": null
+        },
+        "image": "7/7c/RoyalIronHelmet.png",
+        "link": "Royal_Iron_Helmet"
+    },
+    {
+        "name": "Royal Cobalt Helmet",
+        "stats": {
+            "armor": 5,
+            "magicDmg": 0,
+            "meleeDmg": 0,
+            "rangedDmg": 0,
+            "hpRegen": 0,
+            "endurance": 0,
+            "sightRange": 0,
+            "walkSpeed": 0,
+            "jumpPower": 0,
+            "ammoReturn": 0,
+            "height": 0
+        },
+        "cost": {
+            "min": null,
+            "max": null
+        },
+        "image": "0/0a/RoyalCobaltHelmet.png",
+        "link": "Royal_Cobalt_Helmet"
+    },
+    {
+        "name": "Royal Titanium Helmet",
+        "stats": {
+            "armor": 6,
+            "magicDmg": 0,
+            "meleeDmg": 0,
+            "rangedDmg": 0,
+            "hpRegen": 0,
+            "endurance": 0,
+            "sightRange": 0,
+            "walkSpeed": 0,
+            "jumpPower": 0,
+            "ammoReturn": 0,
+            "height": 0
+        },
+        "cost": {
+            "min": null,
+            "max": null
+        },
+        "image": "0/03/RoyalTitaniumHelmet.png",
+        "link": "Royal_Titanium_Helmet"
+    },
+    {
+        "name": "Royal Gold Helmet",
+        "stats": {
+            "armor": 8,
+            "magicDmg": 0,
+            "meleeDmg": 0,
+            "rangedDmg": 0,
+            "hpRegen": 0,
+            "endurance": 0,
+            "sightRange": 0,
+            "walkSpeed": 0,
+            "jumpPower": 0,
+            "ammoReturn": 0,
+            "height": 0
+        },
+        "cost": {
+            "min": null,
+            "max": null
+        },
+        "image": "8/83/Royal_Gold_Helmet.png",
+        "link": "Royal_Gold_Helmet"
+    },
+    {
+        "name": "Royal Onyx Helmet",
+        "stats": {
+            "armor": 9,
+            "magicDmg": 0,
+            "meleeDmg": 0,
+            "rangedDmg": 0,
+            "hpRegen": 0,
+            "endurance": 0,
+            "sightRange": 0,
+            "walkSpeed": 0,
+            "jumpPower": 0,
+            "ammoReturn": 0,
+            "height": 0
+        },
+        "cost": {
+            "min": null,
+            "max": null
+        },
+        "image": "5/59/RoyalOnyxHelmet.png",
+        "link": "Royal_Onyx_Helmet"
+    },
+    {
+        "name": "Brickland",
+        "stats": {
+            "armor": 0,
+            "magicDmg": 0,
+            "meleeDmg": 0,
+            "rangedDmg": 0,
+            "hpRegen": 20,
+            "endurance": 0,
+            "sightRange": 0,
+            "walkSpeed": 0,
+            "jumpPower": 0,
+            "ammoReturn": 0,
+            "height": 0
+        },
+        "cost": {
+            "min": 6000000,
+            "max": 7000000
+        },
+        "image": "a/a6/Brickland_Large.png",
+        "link": "Brickland"
+    },
+    {
+        "name": "Century Cube",
+        "stats": {
+            "armor": 15,
+            "magicDmg": 80,
+            "meleeDmg": 80,
+            "rangedDmg": 80,
+            "hpRegen": 0,
+            "endurance": 0,
+            "sightRange": 0,
+            "walkSpeed": 0,
+            "jumpPower": 0,
+            "ammoReturn": 0,
+            "height": 0
+        },
+        "cost": {
+            "min": 8800000,
+            "max": 8800000
+        },
+        "image": "0/04/CenturyCube.png",
+        "link": "Century_Cube"
+    },
+    {
+        "name": "Clever Cube",
+        "stats": {
+            "armor": 10,
+            "magicDmg": 60,
+            "meleeDmg": 60,
+            "rangedDmg": 60,
+            "hpRegen": 0,
+            "endurance": 0,
+            "sightRange": 0,
+            "walkSpeed": 0,
+            "jumpPower": 0,
+            "ammoReturn": 0,
+            "height": 0
+        },
+        "cost": {
+            "min": 2200000,
+            "max": 2200000
+        },
+        "image": "2/29/CleverCube.png",
+        "link": "Clever_Cube"
+    },
+    {
+        "name": "Corrupted Wizard's Helmet",
+        "stats": {
+            "armor": 12,
+            "magicDmg": 40,
+            "meleeDmg": 0,
+            "rangedDmg": 0,
+            "hpRegen": 0,
+            "endurance": 0,
+            "sightRange": 0,
+            "walkSpeed": 0,
+            "jumpPower": 0,
+            "ammoReturn": 0,
+            "height": 0
+        },
+        "cost": {
+            "min": null,
+            "max": null
+        },
+        "image": "e/ec/SpiderHat.png",
+        "link": "Corrupted_Wizard's_Helmet"
+    },
+    {
+        "name": "Cosmic Ghost Mask",
+        "stats": {
+            "armor": 16,
+            "magicDmg": 70,
+            "meleeDmg": 70,
+            "rangedDmg": 70,
+            "hpRegen": 0,
+            "endurance": 0,
+            "sightRange": 0,
+            "walkSpeed": 0,
+            "jumpPower": 0,
+            "ammoReturn": 0,
+            "height": 0
+        },
+        "cost": {
+            "min": null,
+            "max": null
+        },
+        "image": "1/14/CosmicGhostMask.png",
+        "link": "Cosmic_Ghost_Mask"
+    },
+    {
+        "name": "Crescent Coralhead",
+        "stats": {
+            "armor": 7,
+            "magicDmg": 50,
+            "meleeDmg": 0,
+            "rangedDmg": 0,
+            "hpRegen": 0,
+            "endurance": 8,
+            "sightRange": 0,
+            "walkSpeed": 0,
+            "jumpPower": 0,
+            "ammoReturn": 0,
+            "height": 0
+        },
+        "cost": {
+            "min": 650000,
+            "max": 650000
+        },
+        "image": "e/ee/Crescent_Coralhead_Large.png",
+        "link": "Crescent_Coralhead"
+    },
+    {
+        "name": "Criminal's Tallhat",
+        "stats": {
+            "armor": 13,
+            "magicDmg": 0,
+            "meleeDmg": 75,
+            "rangedDmg": 75,
+            "hpRegen": 0,
+            "endurance": 0,
+            "sightRange": 0,
+            "walkSpeed": 0,
+            "jumpPower": 0,
+            "ammoReturn": 0,
+            "height": 0
+        },
+        "cost": {
+            "min": 5000000,
+            "max": 5100000
+        },
+        "image": "8/8c/Criminal'sTallhat.png",
+        "link": "Criminal's_Tallhat"
+    },
+    {
+        "name": "Dark Ghost Mask",
+        "stats": {
+            "armor": 10,
+            "magicDmg": 0,
+            "meleeDmg": 0,
+            "rangedDmg": 0,
+            "hpRegen": 0,
+            "endurance": 0,
+            "sightRange": 0,
+            "walkSpeed": 0,
+            "jumpPower": 0,
+            "ammoReturn": 0,
+            "height": 0
+        },
+        "cost": {
+            "min": null,
+            "max": null
+        },
+        "image": "6/60/DarkGhostMask.png",
+        "link": "Dark_Ghost_Mask"
+    },
+    {
+        "name": "Detour Cone",
+        "stats": {
+            "armor": 14,
+            "magicDmg": 0,
+            "meleeDmg": 75,
+            "rangedDmg": 75,
+            "hpRegen": 0,
+            "endurance": 0,
+            "sightRange": 0,
+            "walkSpeed": 0,
+            "jumpPower": 0,
+            "ammoReturn": 0,
+            "height": 0
+        },
+        "cost": {
+            "min": 5200000,
+            "max": 5200000
+        },
+        "image": "0/09/Detour_Cone_Large.png",
+        "link": "Detour_Cone"
+    },
+    {
+        "name": "Far North Mask",
+        "stats": {
+            "armor": 0,
+            "magicDmg": 75,
+            "meleeDmg": 0,
+            "rangedDmg": 0,
+            "hpRegen": 0,
+            "endurance": 0,
+            "sightRange": 0,
+            "walkSpeed": 0,
+            "jumpPower": 0,
+            "ammoReturn": 0,
+            "height": 0
+        },
+        "cost": {
+            "min": 2235000,
+            "max": 2235000
+        },
+        "image": "1/16/Far_North_Mask_Large.png",
+        "link": "Far_North_Mask"
+    },
+    {
+        "name": "Fashion Hat",
+        "stats": {
+            "armor": 0,
+            "magicDmg": 0,
+            "meleeDmg": 0,
+            "rangedDmg": 0,
+            "hpRegen": 0,
+            "endurance": 0,
+            "sightRange": 0,
+            "walkSpeed": 2,
+            "jumpPower": 0,
+            "ammoReturn": 0,
+            "height": 0
+        },
+        "cost": {
+            "min": 1200000,
+            "max": 1200000
+        },
+        "image": "f/fe/FashionHat.png",
+        "link": "Fashion_Hat"
+    },
+    {
+        "name": "Fear",
+        "stats": {
+            "armor": -16,
+            "magicDmg": 100,
+            "meleeDmg": 200,
+            "rangedDmg": 0,
+            "hpRegen": 0,
+            "endurance": 0,
+            "sightRange": 0,
+            "walkSpeed": 0,
+            "jumpPower": 0,
+            "ammoReturn": 0,
+            "height": 0
+        },
+        "cost": {
+            "min": 50000000,
+            "max": 50000000
+        },
+        "image": "e/e6/Fear.png",
+        "link": "Fear"
+    },
+    {
+        "name": "Ghost Mask",
+        "stats": {
+            "armor": 5,
+            "magicDmg": 0,
+            "meleeDmg": 0,
+            "rangedDmg": 0,
+            "hpRegen": 0,
+            "endurance": 0,
+            "sightRange": 0,
+            "walkSpeed": 0,
+            "jumpPower": 0,
+            "ammoReturn": 0,
+            "height": 0
+        },
+        "cost": {
+            "min": null,
+            "max": null
+        },
+        "image": "e/eb/GhostMask.png",
+        "link": "Ghost_Mask"
+    },
+    {
+        "name": "Gold",
+        "stats": {
+            "armor": -16,
+            "magicDmg": 100,
+            "meleeDmg": 0,
+            "rangedDmg": 200,
+            "hpRegen": 0,
+            "endurance": 0,
+            "sightRange": 0,
+            "walkSpeed": 0,
+            "jumpPower": 0,
+            "ammoReturn": 0,
+            "height": 0
+        },
+        "cost": {
+            "min": 50000000,
+            "max": 50000000
+        },
+        "image": "1/10/Gold.png",
+        "link": "Gold"
+    },
+    {
+        "name": "Hive Crown",
+        "stats": {
+            "armor": 0,
+            "magicDmg": 30,
+            "meleeDmg": 0,
+            "rangedDmg": 0,
+            "hpRegen": 2,
+            "endurance": 0,
+            "sightRange": 0,
+            "walkSpeed": 0,
+            "jumpPower": 0,
+            "ammoReturn": 0,
+            "height": 0
+        },
+        "cost": {
+            "min": 1200000,
+            "max": 1200000
+        },
+        "image": "9/9b/Hive_Crown.png",
+        "link": "Hive_Crown"
+    },
+    {
+        "name": "Kitchen Cube",
+        "stats": {
+            "armor": 5,
+            "magicDmg": 40,
+            "meleeDmg": 40,
+            "rangedDmg": 40,
+            "hpRegen": 0,
+            "endurance": 0,
+            "sightRange": 0,
+            "walkSpeed": 0,
+            "jumpPower": 0,
+            "ammoReturn": 0,
+            "height": 0
+        },
+        "cost": {
+            "min": 880000,
+            "max": 880000
+        },
+        "image": "4/4e/KitchenCube.png",
+        "link": "Kitchen_Cube"
+    },
+    {
+        "name": "Krunkston Four",
+        "stats": {
+            "armor": 14,
+            "magicDmg": 100,
+            "meleeDmg": 100,
+            "rangedDmg": 100,
+            "hpRegen": 0,
+            "endurance": 0,
+            "sightRange": 0,
+            "walkSpeed": 0,
+            "jumpPower": 0,
+            "ammoReturn": 0,
+            "height": 0
+        },
+        "cost": {
+            "min": 9000000,
+            "max": 10000000
+        },
+        "image": "5/57/Krunkston_Four_Large.png",
+        "link": "Krunkston_Four"
+    },
+    {
+        "name": "Maskhat",
+        "stats": {
+            "armor": 8,
+            "magicDmg": 70,
+            "meleeDmg": 0,
+            "rangedDmg": 70,
+            "hpRegen": 0,
+            "endurance": 0,
+            "sightRange": 0,
+            "walkSpeed": 0,
+            "jumpPower": 0,
+            "ammoReturn": 0,
+            "height": 0
+        },
+        "cost": {
+            "min": 4770000,
+            "max": 4770000
+        },
+        "image": "7/72/Maskhat.png",
+        "link": "Maskhat"
+    },
+    {
+        "name": "Magic Fox Headdress",
+        "stats": {
+            "armor": 0,
+            "magicDmg": 100,
+            "meleeDmg": 0,
+            "rangedDmg": 0,
+            "hpRegen": 0,
+            "endurance": 0,
+            "sightRange": 0,
+            "walkSpeed": 0,
+            "jumpPower": 0,
+            "ammoReturn": 0,
+            "height": 0
+        },
+        "cost": {
+            "min": 5000000,
+            "max": 5000000
+        },
+        "image": "f/f2/Magic_Fox_Headdress.png",
+        "link": "Magic_Fox_Headdress"
+    },
+    {
+        "noStats": true,
+        "name": "Minion",
+        "stats": {
+            "armor": 0,
+            "magicDmg": 0,
+            "meleeDmg": 0,
+            "rangedDmg": 0,
+            "hpRegen": 0,
+            "endurance": 0,
+            "sightRange": 0,
+            "walkSpeed": 0,
+            "jumpPower": 0,
+            "ammoReturn": 0,
+            "height": 0
+        },
+        "cost": {
+            "min": 7000000,
+            "max": 10000000
+        },
+        "image": "e/e6/Minion_Large.png",
+        "link": "Minion"
+    },
+    {
+        "name": "Monster Mask",
+        "stats": {
+            "armor": 0,
+            "magicDmg": 0,
+            "meleeDmg": 20,
+            "rangedDmg": 0,
+            "hpRegen": 0,
+            "endurance": 0,
+            "sightRange": 0,
+            "walkSpeed": 0,
+            "jumpPower": 0,
+            "ammoReturn": 0,
+            "height": 0
+        },
+        "cost": {
+            "min": 100000,
+            "max": 100000
+        },
+        "image": "3/36/Monster_Mask.png",
+        "link": "Monster_Mask"
+    },
+    {
+        "name": "Neon Flint's Cap",
+        "stats": {
+            "armor": 5,
+            "magicDmg": 20,
+            "meleeDmg": 0,
+            "rangedDmg": 20,
+            "hpRegen": 0,
+            "endurance": 0,
+            "sightRange": 0,
+            "walkSpeed": 0,
+            "jumpPower": 0,
+            "ammoReturn": 0,
+            "height": 0
+        },
+        "cost": {
+            "min": 200000,
+            "max": 200000
+        },
+        "image": "b/b1/Neon_Flint's_Cap.png",
+        "link": "Neon_Flint's_Cap"
+    },
+    {
+        "name": "Nightingale Mask",
+        "stats": {
+            "armor": 14,
+            "magicDmg": 75,
+            "meleeDmg": 75,
+            "rangedDmg": 75,
+            "hpRegen": 0,
+            "endurance": 11,
+            "sightRange": 0,
+            "walkSpeed": 0,
+            "jumpPower": 0,
+            "ammoReturn": 0,
+            "height": 0
+        },
+        "cost": {
+            "min": null,
+            "max": null
+        },
+        "image": "7/74/Nightingale_Mask.png",
+        "link": "Nightingale_Mask"
+    },
+    {
+        "name": "Nightmare Visage",
+        "stats": {
+            "armor": 15,
+            "magicDmg": 65,
+            "meleeDmg": 65,
+            "rangedDmg": 65,
+            "hpRegen": 0,
+            "endurance": 0,
+            "sightRange": 0,
+            "walkSpeed": 0,
+            "jumpPower": 0,
+            "ammoReturn": 0,
+            "height": 0
+        },
+        "cost": {
+            "min": null,
+            "max": null
+        },
+        "image": "7/72/NightmareVisage.png",
+        "link": "Nightmare_Visage"
+    },
+    {
+        "name": "Oculus Adcuratus",
+        "stats": {
+            "armor": 0,
+            "magicDmg": 0,
+            "meleeDmg": 0,
+            "rangedDmg": 100,
+            "hpRegen": 0,
+            "endurance": 0,
+            "sightRange": 0,
+            "walkSpeed": 0,
+            "jumpPower": 0,
+            "ammoReturn": 0,
+            "height": 0
+        },
+        "cost": {
+            "min": 5000000,
+            "max": 5000000
+        },
+        "image": "c/c0/Oculus_Adcuratus.png",
+        "link": "Oculus_Adcuratus"
+    },
+    {
+        "name": "Otherworld Slug",
+        "stats": {
+            "armor": 0,
+            "magicDmg": 200,
+            "meleeDmg": 0,
+            "rangedDmg": 0,
+            "hpRegen": 0,
+            "endurance": 0,
+            "sightRange": 0,
+            "walkSpeed": -5,
+            "jumpPower": 0,
+            "ammoReturn": 0,
+            "height": 0
+        },
+        "cost": {
+            "min": null,
+            "max": null
+        },
+        "image": "b/b2/OtherworldSlug.png",
+        "link": "Otherworld_Slug"
+    },
+    {
+        "name": "Outlaw's Cap",
+        "stats": {
+            "armor": 0,
+            "magicDmg": 0,
+            "meleeDmg": 0,
+            "rangedDmg": 50,
+            "hpRegen": 0,
+            "endurance": 0,
+            "sightRange": 0,
+            "walkSpeed": 0,
+            "jumpPower": 0,
+            "ammoReturn": 0,
+            "height": 0
+        },
+        "cost": {
+            "min": 1000000,
+            "max": 1000000
+        },
+        "image": "1/1e/Outlaw's_Cap.png",
+        "link": "Outlaw's_Cap"
+    },
+    {
+        "name": "Philmore's Helmet",
+        "stats": {
+            "armor": 12,
+            "magicDmg": 65,
+            "meleeDmg": 65,
+            "rangedDmg": 0,
+            "hpRegen": 0,
+            "endurance": 0,
+            "sightRange": 0,
+            "walkSpeed": 0,
+            "jumpPower": 0,
+            "ammoReturn": 0,
+            "height": 0
+        },
+        "cost": {
+            "min": 2500000,
+            "max": 2600000
+        },
+        "image": "6/6c/Philmore's_Helmet_Large.png",
+        "link": "Philmore's_Helmet"
+    },
+    {
+        "name": "Plain Fishmask",
+        "stats": {
+            "armor": 10,
+            "magicDmg": 70,
+            "meleeDmg": 70,
+            "rangedDmg": 70,
+            "hpRegen": 0,
+            "endurance": 5,
+            "sightRange": 0,
+            "walkSpeed": 0,
+            "jumpPower": 0,
+            "ammoReturn": 0,
+            "height": 0
+        },
+        "cost": {
+            "min": null,
+            "max": null
+        },
+        "image": "1/1a/Plain_Fishmask_Large.png",
+        "link": "Plain_Fishmask"
+    },
+    {
+        "name": "Plasma Ghost Mask",
+        "stats": {
+            "armor": 12,
+            "magicDmg": 35,
+            "meleeDmg": 35,
+            "rangedDmg": 35,
+            "hpRegen": 0,
+            "endurance": 0,
+            "sightRange": 0,
+            "walkSpeed": 0,
+            "jumpPower": 0,
+            "ammoReturn": 0,
+            "height": 0
+        },
+        "cost": {
+            "min": null,
+            "max": null
+        },
+        "image": "b/bf/PlasmaGhostMask.png",
+        "link": "Plasma_Ghost_Mask"
+    },
+    {
+        "name": "Propaganda Head",
+        "stats": {
+            "armor": 0,
+            "magicDmg": 0,
+            "meleeDmg": 0,
+            "rangedDmg": 0,
+            "hpRegen": 0,
+            "endurance": 17,
+            "sightRange": 0,
+            "walkSpeed": 0,
+            "jumpPower": 0,
+            "ammoReturn": 0,
+            "height": 0
+        },
+        "cost": {
+            "min": 18000000,
+            "max": 20000000
+        },
+        "image": "a/ac/PropagandaHead.png",
+        "link": "Propaganda_Head"
+    },
+    {
+        "name": "Punk",
+        "stats": {
+            "armor": -8,
+            "magicDmg": 80,
+            "meleeDmg": 40,
+            "rangedDmg": 0,
+            "hpRegen": 0,
+            "endurance": 0,
+            "sightRange": 0,
+            "walkSpeed": 0,
+            "jumpPower": 0,
+            "ammoReturn": 0,
+            "height": 0
+        },
+        "cost": {
+            "min": 2500000,
+            "max": 2500000
+        },
+        "image": "0/06/Punk.png",
+        "link": "Punk"
+    },
+    {
+        "name": "Puzzlehead",
+        "stats": {
+            "armor": 13,
+            "magicDmg": 65,
+            "meleeDmg": 65,
+            "rangedDmg": 65,
+            "hpRegen": 0,
+            "endurance": 0,
+            "sightRange": 0,
+            "walkSpeed": 0,
+            "jumpPower": 0,
+            "ammoReturn": 0,
+            "height": 0
+        },
+        "cost": {
+            "min": 3000000,
+            "max": 3000000
+        },
+        "image": "9/9b/Puzzlehead_Large.png",
+        "link": "Puzzlehead"
+    },
+    {
+        "name": "Red Yesterday Hat",
+        "stats": {
+            "armor": 0,
+            "magicDmg": 0,
+            "meleeDmg": 0,
+            "rangedDmg": 0,
+            "hpRegen": 0,
+            "endurance": 8,
+            "sightRange": 0,
+            "walkSpeed": 0,
+            "jumpPower": 0,
+            "ammoReturn": 0,
+            "height": 0
+        },
+        "cost": {
+            "min": 50000,
+            "max": 50000
+        },
+        "image": "1/1b/RedYesterdayHat.png",
+        "link": "Red_Yesterday_Hat"
+    },
+    {
+        "name": "Strangeman's Mask",
+        "stats": {
+            "armor": 0,
+            "magicDmg": 111,
+            "meleeDmg": 111,
+            "rangedDmg": 111,
+            "hpRegen": 0,
+            "endurance": 0,
+            "sightRange": 0,
+            "walkSpeed": 0,
+            "jumpPower": 0,
+            "ammoReturn": 0,
+            "height": 0
+        },
+        "cost": {
+            "min": 10000000,
+            "max": 10000000
+        },
+        "image": "d/d6/Strangemans_Mask.png",
+        "link": "Strangeman's_Mask"
+    },
+    {
+        "name": "Tall Anthony",
+        "stats": {
+            "armor": 0,
+            "magicDmg": 0,
+            "meleeDmg": 100,
+            "rangedDmg": 0,
+            "hpRegen": 0,
+            "endurance": 0,
+            "sightRange": 0,
+            "walkSpeed": 0,
+            "jumpPower": 0,
+            "ammoReturn": 0,
+            "height": 0
+        },
+        "cost": {
+            "min": 6500000,
+            "max": 6500000
+        },
+        "image": "a/a4/Tall_Anthony_Large.png",
+        "link": "Tall_Anthony_(Armor)"
+    },
+    {
+        "name": "The Pommel's Helmet",
+        "stats": {
+            "armor": 15,
+            "magicDmg": 55,
+            "meleeDmg": 55,
+            "rangedDmg": 55,
+            "hpRegen": 4,
+            "endurance": 0,
+            "sightRange": 0,
+            "walkSpeed": 0,
+            "jumpPower": 0,
+            "ammoReturn": 0,
+            "height": 0
+        },
+        "cost": {
+            "min": null,
+            "max": null
+        },
+        "image": "7/72/The_Pommel's_Helmet_Large.png",
+        "link": "The_Pommel's_Helmet"
+    },
+    {
+        "name": "Von Jerry's Hat of Illusion",
+        "stats": {
+            "armor": 8,
+            "magicDmg": 88,
+            "meleeDmg": 0,
+            "rangedDmg": 0,
+            "hpRegen": 0,
+            "endurance": 0,
+            "sightRange": 0,
+            "walkSpeed": 0,
+            "jumpPower": 0,
+            "ammoReturn": 0,
+            "height": 0
+        },
+        "cost": {
+            "min": 6200000,
+            "max": 6500000
+        },
+        "image": "a/a7/Von_Jerry's_Hat_Of_Illusion_Large.png",
+        "link": "Von_Jerry's_Hat_of_Illusion"
+    },
+    {
+        "name": "Yaaxil Flame",
+        "stats": {
+            "armor": -10,
+            "magicDmg": 30,
+            "meleeDmg": 95,
+            "rangedDmg": 0,
+            "hpRegen": 0,
+            "endurance": 0,
+            "sightRange": 0,
+            "walkSpeed": 0,
+            "jumpPower": 0,
+            "ammoReturn": 0,
+            "height": 0
+        },
+        "cost": {
+            "min": 3600000,
+            "max": 3750000
+        },
+        "image": "6/69/Yaaxil_Flame_Large.png",
+        "link": "Yaaxil_Flame"
+    },
+    {
+        "name": "Frog Costume #1 - Head",
+        "stats": {
+            "armor": 0,
+            "magicDmg": 0,
+            "meleeDmg": 0,
+            "rangedDmg": 0,
+            "hpRegen": 0,
+            "endurance": 0,
+            "sightRange": 0,
+            "walkSpeed": 0,
+            "jumpPower": 3,
+            "ammoReturn": 0,
+            "height": 0
+        },
+        "cost": {
+            "min": 1000000,
+            "max": 1000000
+        },
+        "image": "3/32/Frog1head.png",
+        "link": "Frog_Costumes#Frog_Costume_#1"
+    },
+    {
+        "name": "Frog Costume #2 - Head",
+        "stats": {
+            "armor": 0,
+            "magicDmg": 0,
+            "meleeDmg": 0,
+            "rangedDmg": 0,
+            "hpRegen": 0,
+            "endurance": 0,
+            "sightRange": 0,
+            "walkSpeed": 0,
+            "jumpPower": 6,
+            "ammoReturn": 0,
+            "height": 0
+        },
+        "cost": {
+            "min": 2500000,
+            "max": 2500000
+        },
+        "image": "1/17/Frog2head.png",
+        "link": "Frog_Costumes#Frog_Costume_#2"
+    },
+    {
+        "name": "Frog Costume #3 - Head",
+        "stats": {
+            "armor": 0,
+            "magicDmg": 0,
+            "meleeDmg": 0,
+            "rangedDmg": 0,
+            "hpRegen": 0,
+            "endurance": 0,
+            "sightRange": 0,
+            "walkSpeed": 0,
+            "jumpPower": 9,
+            "ammoReturn": 0,
+            "height": 0
+        },
+        "cost": {
+            "min": 3500000,
+            "max": 3500000
+        },
+        "image": "4/4a/Frog3head.png",
+        "link": "Frog_Costumes#Frog_Costume_#3"
+    },
+    {
+        "name": "Frog Costume #4 - Head",
+        "stats": {
+            "armor": 0,
+            "magicDmg": 0,
+            "meleeDmg": 0,
+            "rangedDmg": 0,
+            "hpRegen": 0,
+            "endurance": 0,
+            "sightRange": 0,
+            "walkSpeed": 0,
+            "jumpPower": 12,
+            "ammoReturn": 0,
+            "height": 0
+        },
+        "cost": {
+            "min": 5000000,
+            "max": 5000000
+        },
+        "image": "a/a2/Frog4head.png",
+        "link": "Frog_Costumes#Frog_Costume_#4"
+    },
+    {
+        "name": "Frog Costume #5 - Head",
+        "stats": {
+            "armor": 0,
+            "magicDmg": 0,
+            "meleeDmg": 0,
+            "rangedDmg": 0,
+            "hpRegen": 0,
+            "endurance": 0,
+            "sightRange": 0,
+            "walkSpeed": 0,
+            "jumpPower": 15,
+            "ammoReturn": 0,
+            "height": 0
+        },
+        "cost": {
+            "min": 5000000,
+            "max": 5000000
+        },
+        "image": "3/30/Frog5head.png",
+        "link": "Frog_Costumes#Frog_Costume_#5"
+    }
+]
